@@ -1,17 +1,20 @@
+import pickle
 import streamlit as st
-from simpletransformers.classification import ClassificationModel
-from constants import id_to_category
 
-"""
-ModelServing Class instantiates the transformer model and sets up the SteamLit App.
-When the user enters text input and presses the submit button, the model predicts the
-complaint category and prints on the Web App.
-"""
+# ModelServing Class instantiates the transformer model and sets up the SteamLit App.
+# When the user enters text input and presses the submit button, the model predicts the
+# complaint category and prints on the Web App.
 class ModelServing():
 
     def __init__(self):
-        self.model = ClassificationModel("roberta", "best_model", use_cuda = False)
+        self.model = pickle.load( open( "linear_svc_model.pkl", "rb" ) )
+        self.tfidf_vectorizer = pickle.load( open( "tfidf_vectorizer.pickle", "rb" ) )
         st.title('NYC 311 Complaint Type Prediction')
+        st.markdown(""" <style>
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+        </style> """, unsafe_allow_html=True)
+        # st.footer('Made by <a href="http://hardiknahata.com>"')
 
     def start_model_serving(self):
 
@@ -20,11 +23,15 @@ class ModelServing():
         submit = form.form_submit_button(label='Predict')
 
         if submit:
-            prediction, raw_outputs = self.model.predict([complaint])
-            predicted_label = id_to_category[prediction[0]]       
-            st.write(f'Complaint Type: {predicted_label}')
+            if not complaint:
+                 st.write(f'Complaint Description Cannot be Empty')
+            else:
+                vectorizer_input = self.tfidf_vectorizer.transform([complaint])
+                predicted_label = self.model.predict(vectorizer_input)[0]      
+                # st.write(f'Complaint Category: {predicted_label}')
+                st.metric('Complaint Category', predicted_label)
     
+
+
 if __name__ == '__main__':
     ModelServing().start_model_serving()
-    
-    
