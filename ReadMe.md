@@ -1,8 +1,8 @@
 # How to Run
-Install required libaries by running:
+Install required libaries by running:  
 `pip install -r requirements.txt`
 
-Command to launch StreamLit App on local browser:
+Command to launch StreamLit App on local browser:  
 `streamlit run predict.py`
 
 
