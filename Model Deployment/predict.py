@@ -1,11 +1,14 @@
 import pickle
 import streamlit as st
 
-# ModelServing Class instantiates the transformer model and sets up the SteamLit App.
-# When the user enters text input and presses the submit button, the model predicts the
-# complaint category and prints on the Web App.
-class ModelServing():
 
+class ModelServing():
+    '''
+    ModelServing Class instantiates the transformer model and sets up the SteamLit App.
+    When the user enters text input and presses the submit button, the model predicts the
+    complaint category and prints on the Web App.
+    '''
+    
     def __init__(self):
         self.model = pickle.load( open( "linear_svc_model.pkl", "rb" ) )
         self.tfidf_vectorizer = pickle.load( open( "tfidf_vectorizer.pickle", "rb" ) )
@@ -16,7 +19,7 @@ class ModelServing():
         </style> """, unsafe_allow_html=True)
         # st.footer('Made by <a href="http://hardiknahata.com>"')
 
-    def start_model_serving(self):
+    def run(self):
 
         form = st.form(key='my_form')
         complaint = form.text_input(label='Type your complaint here:')
@@ -34,4 +37,4 @@ class ModelServing():
 
 
 if __name__ == '__main__':
-    ModelServing().start_model_serving()
+    ModelServing().run()

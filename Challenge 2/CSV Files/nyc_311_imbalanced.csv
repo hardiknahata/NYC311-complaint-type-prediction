@@ -1,0 +1,907 @@
+,complaint_type,text,labels
+2,PLUMBING,shower stall,17
+5,CONSTRUCTION,locks,1
+6,PLUMBING,bathtub,17
+7,PLUMBING,water leaks,17
+14,OTHER,rubbish,16
+15,CONSTRUCTION,mold,1
+37,CONSTRUCTION,floor,1
+38,OTHER,vermin,16
+46,OTHER,carbon monoxide,16
+47,PLUMBING,basin sink,17
+48,CONSTRUCTION,doors,1
+50,PLUMBING,water supply,17
+58,OTHER,janitor super,16
+63,CONSTRUCTION,fire escape,1
+71,CONSTRUCTION,gas,1
+82,ELECTRICAL,electric wiring,8
+94,ELECTRICAL,electric supply,8
+102,PLUMBING,toilet,17
+126,CONSTRUCTION,windows,1
+143,PLUMBING,radiator,17
+185,ELECTRICAL,lighting,8
+218,ELECTRICAL,bell buzzer intercom,8
+305,NOISE,noise barking dog,15
+311,TRAFFIC,controller,22
+314,HAZARDOUS MATERIALS,hazmat problem,10
+315,SANITATION,improper disposal,18
+323,CONSUMER COMPLAINT,unlicensed,3
+338,STREET CONDITION,pothole,21
+429,STREET CONDITION,lamppost knocked,21
+433,FOOD ESTABLISHMENT,bare hands contact w food,9
+442,SANITATION,dead animals,18
+444,NOISE,noise construction equipment,15
+450,SEWER,sewer backup,20
+452,STREET CONDITION,lamppost leaning,21
+463,TREE,branch cracked fall,23
+467,PLUMBING,leak,17
+471,NOISE,noise construction hours,15
+472,TRAFFIC,cable,22
+473,TREE,whole block,23
+476,PLUMBING,hydrant running,17
+480,PLUMBING,hydrant running full,17
+489,SANITATION,dirty area alleyway,18
+507,STREET CONDITION,lamppost wire exposed,21
+514,STREET CONDITION,trees sidewalks program,21
+515,MAINTENANCE OR FACILITY,garbage litter,14
+519,TRAFFIC,veh signal lamp,22
+528,HAZARDOUS MATERIALS,chemical spill release,10
+536,STREET CONDITION,cave,21
+538,MAINTENANCE OR FACILITY,hours operation,14
+539,HIGHWAY CONDITION,litter,11
+541,HPD LITERATURE REQUEST,tenant landlord disputes brochure english,12
+547,STREET CONDITION,st name attached pole,21
+549,TRAFFIC,pedestrian signal,22
+552,SANITATION,dirty sidewalk,18
+568,SANITATION,law,18
+576,DOF PROPERTY - PAYMENT ISSUE,billing issue,6
+579,CONSUMER COMPLAINT,damaged defective goods,3
+591,CONSUMER COMPLAINT,overcharge,3
+592,SANITATION,street cond dump drop,18
+600,CONSUMER COMPLAINT,damaged vehicle,3
+609,STREET CONDITION,street light,21
+612,STREET CONDITION,rough pitted cracked roads,21
+622,TREE,bicycle chained tree,23
+627,CONSTRUCTION,building permit none,1
+632,STREET CONDITION,street light cycling,21
+649,NOISE,noise alarms,15
+655,PLUMBING,failure retain water improper drainage,17
+657,CONSUMER COMPLAINT,exchange refund return,3
+658,AIR QUALITY,chemical vapors gases odors,0
+662,STREET CONDITION,lamppost missing,21
+680,HIGHWAY CONDITION,pothole highway,11
+799,CONSTRUCTION,ceramic tile,1
+845,CONSTRUCTION,mail box,1
+859,CONSTRUCTION,cabinets,1
+882,OTHER,smoke detector,16
+897,PLUMBING,sewer,17
+1290,TRAFFIC,vehicle signal,22
+1303,AIR QUALITY,air odor fumes restaurant,0
+1324,CONSTRUCTION,illegal conversion commercial bldg space uses,1
+1351,SANITATION,illegal postering,18
+1355,NOISE,noise private carting noise,15
+1369,SANITATION,litter surveillance,18
+1375,STREET CONDITION,stop,21
+1379,STREET CONDITION,defective hardware,21
+1399,PLUMBING,dirty water,17
+1400,AIR QUALITY,air odor fumes vehicle idling,0
+1410,PLUMBING,possible water main break,17
+1413,CONSUMER COMPLAINT,price posted,3
+1416,PLUMBING,water low pressure,17
+1427,AIR QUALITY,air smoke residential,0
+1434,STREET CONDITION,sidewalk violation,21
+1438,SANITATION,loose rubbish,18
+1441,SANITATION,canine violation,18
+1442,CONSTRUCTION,cons contrary beyond approved plans permits,1
+1453,SEWER,street flooding,20
+1454,DCA / DOH NEW LICENSE APPLICATION REQUEST,full term mobile food vendor license,4
+1457,SCRIE,scrie assistance,19
+1467,STREET CONDITION,failed street repair,21
+1470,FOOD ESTABLISHMENT,kitchen food prep area,9
+1474,CONSTRUCTION,debris falling danger falling,1
+1477,SEWER,manhole cover missing,20
+1486,TRAFFIC,veh signal head,22
+1488,CONSTRUCTION,sidewalk shed pipe scafford inadequate defective none,1
+1489,STREET CONDITION,plate condition open,21
+1490,AIR QUALITY,air dust construction demolition,0
+1492,CONSTRUCTION,building shaking vibrating structural stability,1
+1495,TREE,branch limb fallen,23
+1520,TRAFFIC,ped lamp,22
+1523,SEWER,catch basin clogged flooding,20
+1546,CONSUMER COMPLAINT,harassment,3
+1573,TREE,dead dying tree,23
+1579,DCA / DOH NEW LICENSE APPLICATION REQUEST,home improvement contractor license,4
+1592,CONSTRUCTION,egress doors locked blocked improper secondary means,1
+1594,PLUMBING,water problem,17
+1599,HPD LITERATURE REQUEST,homefirst payment information,12
+1603,PLUMBING,hydrant leaking,17
+1607,FOOD ESTABLISHMENT,food worker activity,9
+1609,TREE,hitting power phone lines,23
+1615,STREET CONDITION,multiple street lights,21
+1622,STREET CONDITION,line marking faded,21
+1642,STREET CONDITION,fixture luminaire hanging,21
+1651,STREET CONDITION,street light lamp dim,21
+1676,CONSTRUCTION,building vacant open unguarded,1
+1736,OTHER,signage,16
+2005,CONSTRUCTION,ventilation system,1
+2683,CONSUMER COMPLAINT,non delivery goods services,3
+2686,TRAFFIC,led pedestrian unit,22
+2737,MAINTENANCE OR FACILITY,unsecured facility,14
+2751,AIR QUALITY,ventilation,0
+2799,STREET CONDITION,st name intersection,21
+2850,NOISE,noise air condition ventilation equip residential,15
+2860,CONSTRUCTION,fence none inadequate,1
+2862,SANITATION,throw,18
+2923,FOOD ESTABLISHMENT,rodents insects garbage,9
+2929,FOOD ESTABLISHMENT,sewage,9
+2930,VIOLATION OF PARK RULES,obstructing public use,24
+2982,STREET CONDITION,street cleaning asp,21
+2985,CONSTRUCTION,site conditions endangering workers,1
+2994,CONSTRUCTION,vent exhaust illegal improper,1
+2996,SEWER,catch basin sunken damaged raised,20
+3265,CONSUMER COMPLAINT,debt owed,3
+3279,STREET CONDITION,bus stop,21
+3344,STREET CONDITION,broken sidewalk,21
+3374,SCRIE,scrie recertification,19
+3390,STREET CONDITION,curb painted,21
+3405,HPD LITERATURE REQUEST,mitchell lama housing list,12
+3548,HAZARDOUS MATERIALS,petroleum spill,10
+3562,NOISE,noise air condition ventilation equip commercial,15
+4380,STREET CONDITION,unsafe worksite,21
+4384,MAINTENANCE OR FACILITY,graffiti vandalism,14
+4397,DOF PARKING - PAYMENT ISSUE,card dof confirmation number issued,5
+4402,SEWER,catch basin search,20
+4428,SANITATION,illegal dumping surveillance,18
+4434,SANITATION,receptacle violation,18
+4444,SCRIE,scrie application problem,19
+4477,CONSTRUCTION,failure comply vacate order,1
+4478,PLUMBING,hydrant defective,17
+4483,CONSTRUCTION,debris excessive,1
+4495,AIR QUALITY,air air problem,0
+4502,HPD LITERATURE REQUEST,heat bulletin,12
+4539,STREET CONDITION,lamppost base door cover open,21
+4542,SEWER,street cave depression,20
+4575,WATER CONSERVATION,wasting faucetssinksflushometerurinaletc private residence,25
+5668,TRAFFIC,base door,22
+5748,CONSTRUCTION,working contrary stop work order,1
+5766,DOF PROPERTY - PAYMENT ISSUE,payment made wrong bbl,6
+5768,HPD LITERATURE REQUEST,tenant landlord disputes brochure spanish,12
+5769,DOF PARKING - PAYMENT ISSUE,waive penalty late payment,5
+5784,STREET CONDITION,street light dayburning,21
+5799,ELECTRICAL,electrical wiring defective exposed,8
+5820,TREE,dead branches tree,23
+5860,CONSUMER COMPLAINT,capacity,3
+5875,PLUMBING,plumbing work illegal permit standpipe sprinkler,17
+5879,CONSTRUCTION,adjacent buildings protected,1
+5896,TRAFFIC,post,22
+5911,DOF PARKING - PAYMENT ISSUE,settlement reduction shown,5
+5916,DOF PROPERTY - PAYMENT ISSUE,interest dispute,6
+5922,DOF PROPERTY - REDUCTION ISSUE,personal sche exemption,7
+5932,SEWER,sewer odor,20
+6099,MAINTENANCE OR FACILITY,snow ice,14
+6135,TRAFFIC,veh sgnl mult lamps,22
+6144,STREET CONDITION,metal protruding sign stump,21
+6169,DCA / DOH NEW LICENSE APPLICATION REQUEST,laundry license,4
+6172,TREE,entire tree fallen,23
+6186,STREET CONDITION,plate condition shifted,21
+6195,TREE,tree leaning uprooted,23
+6228,DCA / DOH NEW LICENSE APPLICATION REQUEST,general street vendor license,4
+6269,HPD LITERATURE REQUEST,home ownership kit,12
+6274,WATER CONSERVATION,water meter broken leaking private residence,25
+6288,STREET CONDITION,lamppost base door cover damaged,21
+6289,CONSTRUCTION,curb cut driveway carport illegal,1
+6300,TREE,one address,23
+6328,NOISE,noise noise sources,15
+6488,DOF PROPERTY - PAYMENT ISSUE,status refund,6
+6515,CONSTRUCTION,failure maintain,1
+6537,STREET CONDITION,blocked construction,21
+6550,STREET CONDITION,pedestrian ramp defective,21
+6575,DOF PARKING - PAYMENT ISSUE,applied wrong ticket,5
+6577,STREET CONDITION,glassware broken,21
+6593,AIR QUALITY,air smoke commercial,0
+6602,DOF PROPERTY - REDUCTION ISSUE,commercial exemption,7
+6606,WATER CONSERVATION,water meter broken leaking,25
+6635,DOF PROPERTY - PAYMENT ISSUE,payment shown,6
+6683,DOF PROPERTY - REDUCTION ISSUE,personal star exemption,7
+6731,DCA / DOH NEW LICENSE APPLICATION REQUEST,food service establishment license,4
+6742,DOF PARKING - PAYMENT ISSUE,card charged twice,5
+7044,STREET CONDITION,affecting sewer foundation,21
+7049,TRAFFIC,led lense,22
+7050,DOF PARKING - PAYMENT ISSUE,card dof confirmation number issued,5
+7061,STREET CONDITION,plate condition noisy,21
+7063,STREET CONDITION,dismiss violation owner fixed,21
+7075,STREET CONDITION,sidewalk consultation,21
+7093,DOF PROPERTY - REDUCTION ISSUE,personal exemption,7
+7096,TREE,hitting building,23
+7099,TRAFFIC,temporary,22
+7100,TRAFFIC,push button,22
+7117,STREET CONDITION,bracket arm missing,21
+7120,STREET CONDITION,glassware missing,21
+7134,STREET CONDITION,glassware hanging,21
+7165,STREET CONDITION,lamppost base door cover missing,21
+7225,SANITATION,litter basket improper use,18
+7255,PLUMBING,hydrant knocked missing,17
+7271,DOF PARKING - PAYMENT ISSUE,mailed reflected,5
+7293,FOOD ESTABLISHMENT,food protection,9
+7295,SEWER,manhole overflow,20
+7307,FOOD ESTABLISHMENT,pet animal,9
+7324,WATER CONSERVATION,water meter stolen missing private residence,25
+7345,HAZARDOUS MATERIALS,chemical odor,10
+7395,AIR QUALITY,air odor fumes private carting,0
+7456,FOOD ESTABLISHMENT,toilet facility,9
+7462,CONSUMER COMPLAINT,scale inaccurate broken,3
+7463,DOF PARKING - PAYMENT ISSUE,status payment adjustment,5
+7871,PLUMBING,sprinkler,17
+8210,CONSTRUCTION,stairs,1
+8581,DCA / DOH NEW LICENSE APPLICATION REQUEST,full term mobile food unit permit,4
+8705,PLUMBING,plumbing defective leaking maintained,17
+8755,TRAFFIC,warning signal lamp,22
+8787,FOOD ESTABLISHMENT,food contaminated,9
+9314,OTHER,smoke fumes,16
+9466,TRAFFIC,messenger,22
+9540,STREET CONDITION,fixture luminaire door open,21
+9559,STREET CONDITION,dumpster construction waste,21
+9580,TREE,unauthorized tree pruning,23
+9608,MAINTENANCE OR FACILITY,structure indoors,14
+9619,STREET CONDITION,wear tear,21
+9681,SEWER,plate missing moved exposing hole,20
+9689,TRAFFIC,ped flasher,22
+9753,CONSTRUCTION,safety netting guard rails damaged inadequate none,1
+9843,STREET CONDITION,fixture luminaire position,21
+9865,STREET CONDITION,newspaper box complaint,21
+9888,DOF PROPERTY - PAYMENT ISSUE,unresolved agency charge,6
+9889,PLUMBING,gas hook piping illegal defective,17
+9898,MAINTENANCE OR FACILITY,structure outdoors,14
+9912,DCA / DOH NEW LICENSE APPLICATION REQUEST,seasonal mobile food vendor license,4
+9926,FOOD ESTABLISHMENT,plumbing,9
+9943,HIGHWAY CONDITION,highway fence,11
+9992,CONSUMER COMPLAINT,cigarette sale minor,3
+10007,STREET CONDITION,lamppost damaged,21
+10042,DOF PROPERTY - REDUCTION ISSUE,commercial exemption,7
+10048,STREET CONDITION,flood light lamp dayburning,21
+10095,CONSUMER COMPLAINT,false advertising,3
+10763,DOF PROPERTY - REDUCTION ISSUE,personal veteran exemption,7
+10796,CONSUMER COMPLAINT,contract dispute,3
+10824,SEWER,manhole cover broken making noise,20
+10846,TRAFFIC,support bracket,22
+10875,SEWER,manhole sunken damaged raised,20
+10966,HPD LITERATURE REQUEST,hpd guide programs services,12
+11001,CONSTRUCTION,landmark bldg illegal work,1
+11016,STREET CONDITION,fixture luminaire damaged,21
+11035,DCA / DOH NEW LICENSE APPLICATION REQUEST,secondhand dealer general license,4
+11251,NOISE,noise jack hammering,15
+12404,HPD LITERATURE REQUEST,new lead law rights requirements,12
+12430,WATER CONSERVATION,illegal use hydrant,25
+12743,CONSUMER COMPLAINT,billing dispute,3
+12798,CONSTRUCTION,accident construction plumbing,1
+12879,TREE,blocking street,23
+12918,STREET CONDITION,time clock maladjusted,21
+12994,STREET CONDITION,flood light lamp cycling,21
+13262,STREET CONDITION,guard rail street,21
+13264,DCA / DOH NEW LICENSE APPLICATION REQUEST,electronics store license,4
+13298,STREET CONDITION,street light lamp missing,21
+13357,PLUMBING,hyd valve box cover missing,17
+13362,FOOD ESTABLISHMENT,food spoiled,9
+13408,TRAFFIC,veh signal visor,22
+13440,FOOD ESTABLISHMENT,food contains foreign object,9
+13480,SEWER,catch basin grating missing,20
+13507,DOF PROPERTY - REDUCTION ISSUE,commercial profit exemption,7
+13522,CONSUMER COMPLAINT,house property damaged,3
+13750,DOF PROPERTY - REDUCTION ISSUE,personal dhe exemption,7
+13951,DOF PROPERTY - REDUCTION ISSUE,condo co op abatement,7
+13954,CONSTRUCTION,construction change grade watercourse,1
+13985,STREET CONDITION,construction,21
+14004,HIGHWAY CONDITION,graffiti highway,11
+14016,SANITATION,weeds,18
+14051,CONSUMER COMPLAINT,closed without notice,3
+14161,MAINTENANCE OR FACILITY,grass weeds,14
+15043,DOF PROPERTY - REDUCTION ISSUE,homestead,7
+15055,SEWER,defective missing curb piece,20
+15098,CONSTRUCTION,facade defective cracking,1
+15108,STREET CONDITION,foreign attachment lamppost,21
+15143,STREET CONDITION,line marking repaving,21
+15153,NOISE,horn honking sign requested,15
+15159,DCA / DOH NEW LICENSE APPLICATION REQUEST,gaming cafe license,4
+15297,CONSUMER COMPLAINT,illegal tow,3
+15356,FOOD ESTABLISHMENT,permit license certificate,9
+15524,STREET CONDITION,flood light lamp,21
+15555,TRAFFIC,enclosure cap,22
+15609,TREE,tree alive poor condition,23
+15642,DCA / DOH NEW LICENSE APPLICATION REQUEST,individual process server license,4
+15662,STREET CONDITION,multiple st lts dayburning,21
+15702,FOOD ESTABLISHMENT,dishwashing utensils,9
+16580,DCA / DOH NEW LICENSE APPLICATION REQUEST,non retail food processing establishment license,4
+16760,STREET CONDITION,fixture luminaire missing,21
+16836,TREE,trunk damaged,23
+16895,FOOD ESTABLISHMENT,food worker hygiene,9
+16926,SEWER,sewer break,20
+16945,DCA / DOH NEW LICENSE APPLICATION REQUEST,going business sale license,4
+16962,DCA / DOH NEW LICENSE APPLICATION REQUEST,employment agency license,4
+17121,DCA / DOH NEW LICENSE APPLICATION REQUEST,secondhand dealer auto license,4
+17179,CONSTRUCTION,posted notice order removed tampered,1
+17253,FOOD ESTABLISHMENT,handwashing,9
+18019,DOF PROPERTY - PAYMENT ISSUE,incorrect amount paid,6
+18260,CONSTRUCTION,excavation undermining adjacent building,1
+18302,FOOD ESTABLISHMENT,odor,9
+18482,FOOD ESTABLISHMENT,food temperature,9
+18669,DOF PROPERTY - REDUCTION ISSUE,commercial exemption,7
+19062,PLUMBING,sprinkler system inadequate,17
+19117,NOISE,noise loud music nighttime,15
+19135,DCA / DOH NEW LICENSE APPLICATION REQUEST,sidewalk cafe license,4
+19596,TRAFFIC,flashing hazard,22
+20488,CONSTRUCTION,non compliance w lightweight materials,1
+21744,FOOD ESTABLISHMENT,water,9
+21838,DOF PROPERTY - REDUCTION ISSUE,commercial exemption,7
+21897,TREE,traffic sign signal blocked,23
+21991,CONSUMER COMPLAINT,demand cash,3
+22178,STREET CONDITION,sidewalk staircase,21
+23230,DCA / DOH NEW LICENSE APPLICATION REQUEST,home improvement salesperson license,4
+23237,TREE,tree trunk split,23
+23267,CONSUMER COMPLAINT,sidewalk blocked,3
+23331,PLUMBING,defective street cut,17
+23451,AIR QUALITY,air smoke,0
+23499,HPD LITERATURE REQUEST,housing education program course guide,12
+24417,WATER CONSERVATION,rooftank leak overflow,25
+24450,HAZARDOUS MATERIALS,unsafe chemical abandoned,10
+24519,TRAFFIC,conduit,22
+24779,WATER CONSERVATION,water waste problem,25
+25465,DOF PARKING - PAYMENT ISSUE,person reflected,5
+25486,CONSUMER COMPLAINT,paid advance,3
+25727,HIGHWAY CONDITION,dead animal,11
+25895,TRAFFIC,street light feed,22
+26435,HAZARDOUS MATERIALS,unsafe chemical unknown,10
+26870,STREET CONDITION,cellar door defective,21
+27056,STREET CONDITION,fire alarm lamp,21
+27973,SEWER,trench,20
+28001,STREET CONDITION,sidewalk grating defective,21
+28312,NOISE,noise animals,15
+28695,CONSUMER COMPLAINT,rates posted,3
+28876,DOF PROPERTY - REDUCTION ISSUE,commercial icip icap exemption,7
+28948,TRAFFIC,structure,22
+29031,PLUMBING,request open hydrant,17
+29641,HIGHWAY CONDITION,guard rail highway,11
+30339,CONSUMER COMPLAINT,installation work quality,3
+30778,TRAFFIC,foundation,22
+30987,DCA / DOH NEW LICENSE APPLICATION REQUEST,sightseeing bus license,4
+31356,TREE,branches damaged,23
+31480,FOOD ESTABLISHMENT,food preparation location,9
+31645,TRAFFIC,sway bar,22
+31800,CONSTRUCTION,wall retaining wall bulging cracked,1
+31893,TRAFFIC,mast arm,22
+31961,TRAFFIC,door,22
+31974,AIR QUALITY,air dust residential,0
+32916,SANITATION,private carter spillage,18
+33083,HIGHWAY CONDITION,painted line marking,11
+33098,STREET CONDITION,photocell missing,21
+33123,FOOD ESTABLISHMENT,food worker illness,9
+33468,TREE,roots damaged,23
+33484,HPD LITERATURE REQUEST,certificate harassment exemption sro,12
+33637,DCA / DOH NEW LICENSE APPLICATION REQUEST,tow truck driver license,4
+34462,TRAFFIC,door lock,22
+34554,PLUMBING,hydrant locking device request,17
+34731,CONSUMER COMPLAINT,lost property,3
+35811,AIR QUALITY,dry cleaning vapors,0
+35825,VIOLATION OF PARK RULES,use newly seeded lawn,24
+35925,CONSUMER COMPLAINT,contact sign posted,3
+36893,FOOD ESTABLISHMENT,pesticide,9
+37408,STREET CONDITION,flood light lamp missing,21
+37576,TRAFFIC,post base,22
+37603,CONSUMER COMPLAINT,receipt incomplete given,3
+38755,WATER CONSERVATION,illegal use hose,25
+38953,CONSUMER COMPLAINT,cars parked sidewalk street,3
+39146,TREE,clear street light,23
+39332,TRAFFIC,junction box,22
+39410,DCA / DOH NEW LICENSE APPLICATION REQUEST,catering establishment license,4
+39416,DCA / DOH NEW LICENSE APPLICATION REQUEST,pet store new license,4
+39474,MAINTENANCE OR FACILITY,rodent sighting,14
+40880,TRAFFIC,dead end signal,22
+40958,CONSTRUCTION,smoking ban smoking construction site,1
+41223,DOF PROPERTY - REDUCTION ISSUE,commercial udaap exemption,7
+41688,PLUMBING,slow leak,17
+41693,OTHER,janitor super,16
+41701,ILLEGAL PARKING,blocked sidewalk,13
+41706,PLUMBING,bathtub shower,17
+41709,ILLEGAL PARKING,posted parking sign violation,13
+41760,ILLEGAL PARKING,commercial overnight parking,13
+41782,SANITATION,garbage recycling storage,18
+41783,PLUMBING,heavy flow,17
+41785,ILLEGAL PARKING,blocked bike lane,13
+41818,TRAFFIC,chronic speeding,22
+41824,PLUMBING,gas utility referral,17
+41842,TREE,planted less years ago,23
+41843,SANITATION,pests,18
+41866,PLUMBING,water supply,17
+41881,PLUMBING,excessive water basement,17
+41885,ILLEGAL PARKING,blocked hydrant,13
+41901,ILLEGAL PARKING,parking permit improper use,13
+41916,SCRIE,application renewal,19
+41928,ILLEGAL PARKING,double parked blocking traffic,13
+41949,TRAFFIC,truck route violation,22
+41954,SCRIE,update tenant information,19
+41973,ELECTRICAL,outlet switch,8
+41997,DOF PARKING - PAYMENT ISSUE,status pv refund,5
+42019,ELECTRICAL,wiring,8
+42051,DOF PROPERTY - PAYMENT ISSUE,payment posted,6
+42058,OTHER,cooking gas,16
+42066,ILLEGAL PARKING,double parked blocking vehicle,13
+42071,PLUMBING,boiler,17
+42085,DOF PROPERTY - PAYMENT ISSUE,bill received error,6
+42125,ELECTRICAL,power outage,8
+42132,ELECTRICAL,lighting,8
+42134,OTHER,cabinet,16
+42163,SCRIE,initial application,19
+42229,PLUMBING,damp spot,17
+42243,CONSTRUCTION SAFETY ENFORCEMENT,best high rise tracking complaint,2
+42254,TRAFFIC,aps,22
+42310,PLUMBING,low water pressure wlwp,17
+42321,DOF PROPERTY - PAYMENT ISSUE,amount owed dispute,6
+42329,TRAFFIC,ped multiple lamps,22
+42400,CONSTRUCTION SAFETY ENFORCEMENT,best low rise tracking complaint,2
+42427,TRAFFIC,sign,22
+42442,PLUMBING,water,17
+42451,CONSTRUCTION SAFETY ENFORCEMENT,csc monitoring tracking,2
+42506,ILLEGAL PARKING,unauthorized bus layover,13
+42544,CONSUMER COMPLAINT,mandatory tip,3
+42567,HPD LITERATURE REQUEST,abcs housing,12
+42607,SCRIE,copy approval order,19
+42663,CONSTRUCTION SAFETY ENFORCEMENT,cse sweep,2
+42705,CONSUMER COMPLAINT,credit card limitations posted,3
+42737,OTHER,bell buzzer intercom,16
+43088,AIR QUALITY,dust construction,0
+43234,PLUMBING,steam pipe riser,17
+43243,HAZARDOUS MATERIALS,oil spill street large,10
+43248,NOISE,noise air condition ventilation equipment,15
+43341,OTHER,mailbox,16
+43371,ILLEGAL PARKING,overnight commercial storage,13
+43443,TRAFFIC,congestion gridlock,22
+43531,SCRIE,miscellaneous,19
+43573,DOF PROPERTY - PAYMENT ISSUE,refund credit info status,6
+43625,DOF PROPERTY - REDUCTION ISSUE,personal clergy exemption,7
+43746,CONSUMER COMPLAINT,non disclosure fees,3
+43774,FOOD ESTABLISHMENT,letter grading,9
+43904,CONSUMER COMPLAINT,prohibited item sale minor,3
+43953,TREE,planted years ago,23
+44006,STREET CONDITION,plate condition anti skid,21
+44023,SCRIE,tac report,19
+44089,STREET CONDITION,new con ed service request,21
+44209,HPD LITERATURE REQUEST,sample suspected gas leak notice,12
+44225,HPD LITERATURE REQUEST,notice housing code enforcement issues,12
+44382,TREE,unauthorized tree removal,23
+44401,AIR QUALITY,air smoke chimney vent,0
+44721,SCRIE,rent discrepancy,19
+45130,TRAFFIC,hangers,22
+45200,CONSTRUCTION SAFETY ENFORCEMENT,csc scaffolding,2
+45313,DCA / DOH NEW LICENSE APPLICATION REQUEST,seasonal food cart vendor permit,4
+45350,DCA / DOH NEW LICENSE APPLICATION REQUEST,temporary food service establishment permit,4
+45713,TRAFFIC,underground,22
+45771,NOISE,noise lawn care equipment,15
+45944,STREET CONDITION,traffic signal light,21
+46150,CONSTRUCTION,smoking signs smoking signs observed construction site,1
+46206,SEWER,plate noisy sunken raised,20
+47009,TRAFFIC,drag racing,22
+47340,WATER CONSERVATION,illegal use hose private residence,25
+47364,DOF PROPERTY - REDUCTION ISSUE,commercial cep crp exemption,7
+47401,SCRIE,application appeal,19
+47430,CONSTRUCTION SAFETY ENFORCEMENT,excavation tracking complaint,2
+47468,ILLEGAL PARKING,detached trailer,13
+47585,CONSTRUCTION SAFETY ENFORCEMENT,construction safety compliance action,2
+47719,DCA / DOH NEW LICENSE APPLICATION REQUEST,street fair vendor license,4
+47725,DOF PROPERTY - PAYMENT ISSUE,agency charge,6
+48004,STREET CONDITION,crash cushion defect,21
+48040,ELECTRICAL,electrical enforcement work order,8
+48454,OTHER,signage missing,16
+49426,NOISE,noise ice cream truck,15
+49636,AIR QUALITY,air odor sweet unknown source,0
+50138,SANITATION,dead deer,18
+50628,CONSUMER COMPLAINT,improper sale items,3
+51022,TRAFFIC,blank matrix sgn,22
+51281,CONSUMER COMPLAINT,car available,3
+51358,CONSUMER COMPLAINT,illegal unfair booting,3
+51387,MAINTENANCE OR FACILITY,broken glass,14
+51871,AIR QUALITY,air odor nail salon,0
+52049,TRAFFIC,chronic stoplight violation,22
+52401,AIR QUALITY,air smoke vehicular,0
+52601,FOOD ESTABLISHMENT,permit license,9
+54427,CONSTRUCTION,material storage unsafe,1
+54463,STREET CONDITION,line fuse missing,21
+55197,CONSUMER COMPLAINT,required signage posted,3
+57064,VIOLATION OF PARK RULES,unsafe use playground,24
+57572,VIOLATION OF PARK RULES,unlicensed vendors,24
+58049,STREET CONDITION,sidewalk collapsed,21
+60218,SANITATION,street cond door,18
+60262,CONSTRUCTION,structural stability impacted new building construction,1
+60418,HPD LITERATURE REQUEST,housing information guide tenants owners notice,12
+60792,STREET CONDITION,block box,21
+61531,FOOD ESTABLISHMENT,sodium warning,9
+63689,NOISE,noise manufacturing noise,15
+63971,TRAFFIC,fixture,22
+64477,DOF PARKING - PAYMENT ISSUE,finance business center reflected,5
+64562,CONSUMER COMPLAINT,returns filed,3
+64580,FOOD ESTABLISHMENT,facility construction,9
+67344,STREET CONDITION,flood light lamp dim,21
+68263,CONSUMER COMPLAINT,id requirement posted,3
+70306,NOISE,noise boat,15
+71558,PLUMBING,plumbing enforcement work order,17
+72437,SEWER,sewer problem,20
+72666,CONSTRUCTION SAFETY ENFORCEMENT,csc full demo tracking,2
+72935,STREET CONDITION,wood pole wires exposed,21
+73473,CONSTRUCTION,inadequate support shoring,1
+74669,TRAFFIC,controller cabinet,22
+77166,DCA / DOH NEW LICENSE APPLICATION REQUEST,scrap metal processor license,4
+77291,DCA / DOH NEW LICENSE APPLICATION REQUEST,cigarette retail dealer license,4
+79017,STREET CONDITION,bracket arm loose,21
+80050,HAZARDOUS MATERIALS,unsafe chemical storage,10
+80104,DCA / DOH NEW LICENSE APPLICATION REQUEST,animal training license,4
+81662,NOISE,noise vehicle,15
+82139,STREET CONDITION,canopy complaint,21
+82929,PLUMBING,remove hydrant locking device,17
+83171,TRAFFIC,warning signal,22
+83241,AIR QUALITY,air dust commercial,0
+83332,DCA / DOH NEW LICENSE APPLICATION REQUEST,barbershop license,4
+84465,DOF PROPERTY - REDUCTION ISSUE,commercial government exemption,7
+84766,HPD LITERATURE REQUEST,neighborhood entrepreneurs program guide,12
+85491,STREET CONDITION,cellar door open unprotected,21
+85492,TRAFFIC,box cover,22
+87444,CONSUMER COMPLAINT,layaway terms provided,3
+88645,CONSUMER COMPLAINT,clothing damage,3
+88678,TRAFFIC,veh signal sec door,22
+90032,DCA / DOH NEW LICENSE APPLICATION REQUEST,animal boarding license,4
+90564,CONSUMER COMPLAINT,toy gun sale,3
+91812,DCA / DOH NEW LICENSE APPLICATION REQUEST,full term tattoo license,4
+93370,CONSUMER COMPLAINT,non delivery papers,3
+94925,CONSUMER COMPLAINT,misleading appraisal,3
+96093,STREET CONDITION,hummock,21
+97047,CONSUMER COMPLAINT,high pressure take loan debt,3
+97967,STREET CONDITION,bracket arm bent,21
+98362,HIGHWAY CONDITION,loose plate,11
+101714,HPD LITERATURE REQUEST,interruption essential services notice,12
+101749,FOOD ESTABLISHMENT,toxic chemical material,9
+101976,TRAFFIC,warning buzzer,22
+104633,SEWER,highway flooding,20
+105604,CONSUMER COMPLAINT,labor violation,3
+106009,STREET CONDITION,detour,21
+106654,STREET CONDITION,maintenance cover,21
+106854,CONSUMER COMPLAINT,door open air conditioning,3
+107433,STREET CONDITION,bracket arm broken,21
+108153,HPD LITERATURE REQUEST,abcs housing spanish,12
+109448,CONSUMER COMPLAINT,damaged defective parts,3
+112906,SEWER,culvert blocked needs cleaning,20
+113223,DCA / DOH NEW LICENSE APPLICATION REQUEST,garage parking lot license,4
+115001,DCA / DOH NEW LICENSE APPLICATION REQUEST,locksmith license,4
+118397,DOF PROPERTY - REDUCTION ISSUE,commercial exemption,7
+120140,STREET CONDITION,general bad condition,21
+120348,CONSUMER COMPLAINT,high pressure sales,3
+122495,STREET CONDITION,wood pole leaning,21
+124711,DCA / DOH NEW LICENSE APPLICATION REQUEST,locksmith apprentice license,4
+127271,DCA / DOH NEW LICENSE APPLICATION REQUEST,cabaret license,4
+127381,STREET CONDITION,foreign attachment wood pole,21
+127974,STREET CONDITION,sidewalk grating missing,21
+128699,DCA / DOH NEW LICENSE APPLICATION REQUEST,frozen dessert manufacturer license,4
+131353,PLUMBING,plate noisy sunken raised,17
+134864,DCA / DOH NEW LICENSE APPLICATION REQUEST,stoop line stand license,4
+136014,DCA / DOH NEW LICENSE APPLICATION REQUEST,newsstand license,4
+137296,CONSUMER COMPLAINT,documents paperwork missing,3
+139212,TRAFFIC,tie rods,22
+140941,CONSTRUCTION SAFETY ENFORCEMENT,best dm tracking complaint,2
+141790,HAZARDOUS MATERIALS,oil spill street small,10
+143363,PLUMBING,plate missing moved exposing hole,17
+145705,STREET CONDITION,cellar door new,21
+147535,STREET CONDITION,honorary,21
+153286,SANITATION,spill oil etc,18
+154261,DCA / DOH NEW LICENSE APPLICATION REQUEST,debt collection agency license,4
+154474,TRAFFIC,detector sensor,22
+154672,AIR QUALITY,air open fire commercial,0
+154689,HPD LITERATURE REQUEST,certificate harassment zoning,12
+155035,AIR QUALITY,air soot,0
+162312,CONSUMER COMPLAINT,minor access,3
+167450,WATER CONSERVATION,wasting faucetssinksflushometerurinaletc,25
+168444,TRAFFIC,sidewalk pull box co,22
+169249,DOF PROPERTY - REDUCTION ISSUE,commercial green roof solar panel exemption,7
+169403,VIOLATION OF PARK RULES,biking rollerblading path,24
+170757,DCA / DOH NEW LICENSE APPLICATION REQUEST,infant formula license,4
+171788,CONSTRUCTION SAFETY ENFORCEMENT,interior demo tracking complaint,2
+172031,SEWER,rain garden debris,20
+173994,VIOLATION OF PARK RULES,smoking,24
+174380,VIOLATION OF PARK RULES,removing flowers plants,24
+176053,STREET CONDITION,depression maintenance,21
+185184,TRAFFIC,turn signal,22
+185442,TRAFFIC,telco connection blk,22
+187268,TRAFFIC,rtms,22
+189239,STREET CONDITION,fire alarm lamp missing,21
+193411,DCA / DOH NEW LICENSE APPLICATION REQUEST,laundry jobber license,4
+194649,TRAFFIC,ped lens,22
+196777,FOOD ESTABLISHMENT,milk expired,9
+199657,STREET CONDITION,wood pole damaged,21
+205279,TRAFFIC,weather head,22
+206545,HPD LITERATURE REQUEST,home improvement program loan,12
+207430,WATER CONSERVATION,water meter stolen missing,25
+212121,CONSUMER COMPLAINT,gender pricing,3
+215590,STREET CONDITION,wood pole missing,21
+215896,SEWER,street cave internal use,20
+217479,SEWER,damage structure railing,20
+230326,DCA / DOH NEW LICENSE APPLICATION REQUEST,shelter homeless animals license,4
+239926,CONSUMER COMPLAINT,lack safety equipment,3
+241620,CONSUMER COMPLAINT,extra parts,3
+245246,DCA / DOH NEW LICENSE APPLICATION REQUEST,auctioneer license,4
+252279,VIOLATION OF PARK RULES,unauthorized film shoot,24
+254080,DCA / DOH NEW LICENSE APPLICATION REQUEST,licensed home improvement contractor bumper sticker,4
+254314,STREET CONDITION,blocked atm,21
+256450,TRAFFIC,lane control signal,22
+259033,VIOLATION OF PARK RULES,unauthorized posting signs,24
+262179,HPD LITERATURE REQUEST,abcs housing chinese,12
+265353,HPD LITERATURE REQUEST,emergency notice,12
+269538,DOF PROPERTY - PAYMENT ISSUE,misapplied payment,6
+271286,DCA / DOH NEW LICENSE APPLICATION REQUEST,compressed air license,4
+272965,DCA / DOH NEW LICENSE APPLICATION REQUEST,electronics home appliance service dealer license,4
+276521,HPD LITERATURE REQUEST,housing quality standards inspections faqs english,12
+276608,DCA / DOH NEW LICENSE APPLICATION REQUEST,animal grooming license,4
+278710,AIR QUALITY,air odor fumes dry cleaners,0
+283310,STREET CONDITION,control panel damaged,21
+286693,DCA / DOH NEW LICENSE APPLICATION REQUEST,sightseeing guide license,4
+292610,DCA / DOH NEW LICENSE APPLICATION REQUEST,general vendor distributor license,4
+294559,DCA / DOH NEW LICENSE APPLICATION REQUEST,tow truck company license,4
+296524,PLUMBING,high water pressure,17
+299726,DCA / DOH NEW LICENSE APPLICATION REQUEST,tobacco retail dealer license application,4
+304438,TRAFFIC,pedestrian sign,22
+305350,TRAFFIC,reflector louvre,22
+305595,TRAFFIC,cmu communication,22
+308039,DOF PROPERTY - PAYMENT ISSUE,payment misapplied,6
+310887,TRAFFIC,condulet cover,22
+318132,HIGHWAY CONDITION,concrete barrier,11
+320951,HPD LITERATURE REQUEST,senior citizen home assistance program loan,12
+331873,TRAFFIC,veh signal lens,22
+333067,CONSUMER COMPLAINT,inaccurate meter,3
+338623,TRAFFIC,conduit,22
+339032,AIR QUALITY,air open fire residential,0
+342086,CONSUMER COMPLAINT,retail store,3
+354216,AIR QUALITY,air dust,0
+354362,SCRIE,application portability,19
+354907,HPD LITERATURE REQUEST,certificate harassment application,12
+357521,STREET CONDITION,wood pole knocked,21
+361523,DCA / DOH NEW LICENSE APPLICATION REQUEST,process server organization license,4
+363048,TRAFFIC,speed board sign,22
+368350,STREET CONDITION,fire globe missing,21
+368798,TRAFFIC,stop temporary,22
+368850,DOF PROPERTY - REDUCTION ISSUE,personal military relief exemption,7
+371598,CONSUMER COMPLAINT,spanish transaction,3
+371835,HPD LITERATURE REQUEST,loan brochures,12
+372700,DCA / DOH NEW LICENSE APPLICATION REQUEST,amusement arcade license,4
+374653,TRAFFIC,ped visor,22
+387059,WATER CONSERVATION,illegal use hose private residence,25
+393304,DOF PARKING - PAYMENT ISSUE,marshal reflected,5
+394421,PLUMBING,swimming pool unmaintained,17
+396435,PLUMBING,container gallons,17
+403004,PLUMBING,explain,17
+406657,CONSUMER COMPLAINT,time insufficient,3
+416224,NOISE,noise loud music daytime,15
+427503,FOOD ESTABLISHMENT,allergy information,9
+428387,VIOLATION OF PARK RULES,bbq outside authorized area,24
+430364,PLUMBING,swimming pool cover,17
+432445,PLUMBING,tires,17
+433252,CONSTRUCTION SAFETY ENFORCEMENT,sst tracking complaint,2
+434485,PLUMBING,puddle ground,17
+436302,PLUMBING,building foundation,17
+444426,HIGHWAY CONDITION,high grass,11
+445302,TRAFFIC,bbs failure,22
+456167,DCA / DOH NEW LICENSE APPLICATION REQUEST,horse drawn carriage owner license,4
+459130,CONSTRUCTION,safety inspection retaining walls,1
+474025,PLUMBING,roof gutters,17
+474493,ELECTRICAL,con edison referral,8
+474630,DOF PROPERTY - PAYMENT ISSUE,apply payment credit,6
+475254,DOF PROPERTY - PAYMENT ISSUE,wrong amount paid withdrawn,6
+478182,PLUMBING,puddle roof,17
+478414,TRAFFIC,transducer loop,22
+478870,VIOLATION OF PARK RULES,unauthorized climbing,24
+479177,TRAFFIC,wireless antenna,22
+490237,PLUMBING,sewer drain,17
+500277,CONSUMER COMPLAINT,statement job conditions,3
+513848,DCA / DOH NEW LICENSE APPLICATION REQUEST,portable amusement ride license,4
+515943,DOF PROPERTY - REDUCTION ISSUE,mci abatement,7
+520766,STREET CONDITION,sidewalk,21
+543025,DOF PROPERTY - PAYMENT ISSUE,electronic fund transfer problem,6
+543383,DCA / DOH NEW LICENSE APPLICATION REQUEST,temporary tattoo license,4
+558424,PLUMBING,puddle sidewalk,17
+562043,CONSTRUCTION,deck inspection,1
+569033,TRAFFIC,controller flasher,22
+572234,PLUMBING,flower planters,17
+575588,CONSUMER COMPLAINT,dissatisfaction provider,3
+604276,PLUMBING,basement,17
+616234,TRAFFIC,time switch,22
+616836,DCA / DOH NEW LICENSE APPLICATION REQUEST,pawn broker license,4
+618389,HPD LITERATURE REQUEST,small buildings loan program,12
+651684,TRAFFIC,dust cover,22
+651957,TRAFFIC,traffic camera,22
+659521,SEWER,rain garden flooding,20
+659870,DCA / DOH NEW LICENSE APPLICATION REQUEST,pathogens license,4
+669378,CONSUMER COMPLAINT,unrequested services provided,3
+691378,HIGHWAY CONDITION,sign blocked tree,11
+691731,CONSUMER COMPLAINT,documents returned,3
+711327,HAZARDOUS MATERIALS,lead outdoor,10
+711722,TRAFFIC,expy lamp,22
+712420,CONSUMER COMPLAINT,missing complaint sign,3
+731486,CONSUMER COMPLAINT,non disclosure ownership,3
+736917,AIR QUALITY,air open fire construction demolition,0
+748988,PLUMBING,puddle driveway,17
+755753,DOF PROPERTY - PAYMENT ISSUE,property refunds credits,6
+757454,DCA / DOH NEW LICENSE APPLICATION REQUEST,auction house license,4
+762975,NOISE,private carting,15
+778425,PLUMBING,container gallons,17
+780819,CONSUMER COMPLAINT,car dealer used,3
+781291,CONSUMER COMPLAINT,home heating oil company,3
+781387,CONSUMER COMPLAINT,tow truck company,3
+781772,CONSUMER COMPLAINT,tax preparer,3
+781877,CONSUMER COMPLAINT,gas station,3
+781891,CONSUMER COMPLAINT,garage parking lot,3
+796212,STREET CONDITION,strip paving,21
+805163,CONSTRUCTION,vesting inspection,1
+810625,CONSUMER COMPLAINT,tour company,3
+812593,CONSUMER COMPLAINT,process server,3
+813617,CONSUMER COMPLAINT,cell phone store,3
+814198,CONSUMER COMPLAINT,furniture store,3
+814549,CONSUMER COMPLAINT,debt collection agency,3
+814698,CONSUMER COMPLAINT,laundry,3
+815095,CONSUMER COMPLAINT,dry cleaner,3
+815136,DCA / DOH NEW LICENSE APPLICATION REQUEST,dealer devices disabled license,4
+815987,CONSUMER COMPLAINT,home improvement contractor,3
+816356,CONSUMER COMPLAINT,electronics store,3
+822454,PLUMBING,bird bath,17
+826020,CONSUMER COMPLAINT,injury safety,3
+828576,CONSUMER COMPLAINT,scale inaccurate,3
+845127,CONSUMER COMPLAINT,locksmith,3
+845862,CONSUMER COMPLAINT,travel agency,3
+846380,CONSUMER COMPLAINT,storage warehouse,3
+846841,CONSUMER COMPLAINT,mail order,3
+848769,CONSUMER COMPLAINT,horse drawn carriage,3
+849960,CONSUMER COMPLAINT,pedicab,3
+851610,PLUMBING,fountain gallons,17
+861820,PLUMBING,fire hydrant emergency,17
+870334,DCA / DOH NEW LICENSE APPLICATION REQUEST,employment agency manager license,4
+882084,PLUMBING,fountain gallons,17
+883440,CONSUMER COMPLAINT,employment agency,3
+887067,CONSUMER COMPLAINT,door door sales,3
+908327,DCA / DOH NEW LICENSE APPLICATION REQUEST,pool billiard hall license,4
+913002,CONSUMER COMPLAINT,bodega deli supermarket,3
+913297,CONSUMER COMPLAINT,car wash,3
+914562,CONSUMER COMPLAINT,immigration services,3
+916989,CONSUMER COMPLAINT,sidewalk cafe,3
+939703,WATER CONSERVATION,swimming pool illegal filling private residence,25
+946228,CONSUMER COMPLAINT,scrap metal processor,3
+946375,SEWER,catch basin connection broken internal use,20
+949007,CONSUMER COMPLAINT,going business,3
+951947,CONSUMER COMPLAINT,stoop line,3
+957166,CONSUMER COMPLAINT,booting company,3
+977423,HPD LITERATURE REQUEST,article loan program,12
+983541,CONSUMER COMPLAINT,restaurant,3
+990041,CONSUMER COMPLAINT,car rental,3
+990450,STREET CONDITION,street cave,21
+991889,CONSUMER COMPLAINT,hotel,3
+994517,CONSUMER COMPLAINT,profit college,3
+996681,CONSUMER COMPLAINT,rental hall,3
+998227,CONSUMER COMPLAINT,cabaret,3
+1017616,CONSUMER COMPLAINT,secondhand dealer,3
+1018600,CONSUMER COMPLAINT,disabled device dealer,3
+1027459,CONSUMER COMPLAINT,electronics repair store,3
+1045882,TRAFFIC,marine flasher,22
+1064428,CONSUMER COMPLAINT,pawn broker,3
+1067011,AIR QUALITY,air odor fumes,0
+1072655,CONSUMER COMPLAINT,auction house auctioneer,3
+1076022,CONSUMER COMPLAINT,newsstand,3
+1108984,CONSUMER COMPLAINT,ticket broker,3
+1138766,HPD LITERATURE REQUEST,participation loan program,12
+1141786,CONSUMER COMPLAINT,pregnancy services center,3
+1143775,CONSUMER COMPLAINT,vocational trade school,3
+1151166,CONSUMER COMPLAINT,grocery store,3
+1155703,CONSUMER COMPLAINT,amusement ride,3
+1181232,CONSUMER COMPLAINT,public event seating,3
+1184544,PLUMBING,manhole cover missing dep internal use,17
+1187821,CONSUMER COMPLAINT,arcade,3
+1193607,CONSUMER COMPLAINT,gaming cafe,3
+1220806,CONSTRUCTION,initial construction,1
+1244465,CONSTRUCTION,plan compliance inspection,1
+1284245,TRAFFIC,lane station,22
+1308702,STREET CONDITION,root sewer sidewalk condition,21
+1333582,CONSUMER COMPLAINT,scale dealer repairer,3
+1362318,DCA / DOH NEW LICENSE APPLICATION REQUEST,temporary amusement device license,4
+1372076,CONSUMER COMPLAINT,street fair vendor,3
+1383570,CONSUMER COMPLAINT,pool billiard hall,3
+1409687,DCA / DOH NEW LICENSE APPLICATION REQUEST,horse stable license,4
+1410226,PLUMBING,jewelry dentistry torch gas piping removed w permit,17
+1432426,CONSUMER COMPLAINT,minor present school hours,3
+1475550,HAZARDOUS MATERIALS,natural gas leak dep internal use,10
+1492370,DOF PROPERTY - REDUCTION ISSUE,personal drie exemption,7
+1519257,CONSUMER COMPLAINT,high interest loan,3
+1656698,DOF PROPERTY - REDUCTION ISSUE,personal crime victim good samaritan exemption,7
+1744579,TRAFFIC,red lt camera feed,22
+1752233,STREET CONDITION,crack sealing,21
+1795190,STREET CONDITION,fire alarm lamp dayburning,21
+1810661,DCA / DOH NEW LICENSE APPLICATION REQUEST,scale dealer repairer license,4
+1896720,CONSUMER COMPLAINT,sales promotion,3
+1923914,PLUMBING,open excavation,17
+1989247,DCA / DOH NEW LICENSE APPLICATION REQUEST,horse drawn carriage driver license,4
+2011103,HAZARDOUS MATERIALS,building collapse fire,10
+2039264,DCA / DOH NEW LICENSE APPLICATION REQUEST,weight reducing group license,4
+2041007,TRAFFIC,messenger,22
+2060972,STREET CONDITION,highway sign lighting repair,21
+2074313,CONSUMER COMPLAINT,bill rights,3
+2089130,FOOD ESTABLISHMENT,milk pasteurized,9
+2312240,CONSTRUCTION,window guards,1
+2320766,CONSUMER COMPLAINT,advance fee,3
+2346232,DOF PROPERTY - REDUCTION ISSUE,commercial damp exemption,7
+2483015,DCA / DOH NEW LICENSE APPLICATION REQUEST,permanent amusement device license,4
+2560513,TRAFFIC,det sens cabinet,22
+2591080,DCA / DOH NEW LICENSE APPLICATION REQUEST,motion picture operator license,4
+2679488,CONSTRUCTION,initial co,1
+2680911,CONSTRUCTION,initial pa,1
+2681279,CONSTRUCTION,inspect rslve objections,1
+2682716,CONSTRUCTION,inspect show,1
+2719825,CONSTRUCTION,initial bpp,1
+2723229,CONSTRUCTION,inspect unprepared,1
+2838122,NOISE,construction hours dep internal use,15
+2858615,HAZARDOUS MATERIALS,lead indoor,10
+2882883,HAZARDOUS MATERIALS,indoor air complaint,10
+2939916,HPD LITERATURE REQUEST,housing quality standards inspections faqs spanish,12
+2993562,CONSTRUCTION,damage assessment request,1
+3023404,NOISE,air conditioner ventilation equipment,15
+3153406,STREET CONDITION,fire alarm lamp cycling,21
+3408003,TRAFFIC,dead end sign,22
+3591089,TREE,child care information,23
+3822399,PLUMBING,installation hydrant side post,17
+4081043,DCA / DOH NEW LICENSE APPLICATION REQUEST,secondhand dealer firearms license,4
+4186634,TRAFFIC,marine fixture,22
+4327328,TRAFFIC,wireless,22
+4489456,TRAFFIC,mssg sign multi lamp,22
+4711190,TRAFFIC,ver message sign,22
+4722563,DCA / DOH NEW LICENSE APPLICATION REQUEST,storage warehouse license,4
+4841482,TRAFFIC,expressway sign,22
+4881623,CONSUMER COMPLAINT,loan offer,3
+5127362,DCA / DOH NEW LICENSE APPLICATION REQUEST,booting company license,4
+5289385,TRAFFIC,expy fixture,22
+5496001,HPD LITERATURE REQUEST,storm recovery loan program information sheet,12
+5571071,PLUMBING,service line termination dep internal use,17
+5715369,SEWER,recurring soap dep internal use,20
+6173092,TRAFFIC,expy sign reflector,22
+6516187,SEWER,soap segment dep internal use recurring soap dep internal use,20
+6752903,CONSTRUCTION,porch balcony,1
+7063732,HAZARDOUS MATERIALS,building collapse fire dep internal use,10
+7721232,CONSUMER COMPLAINT,satisfaction provider,3
+7847744,DOF PROPERTY - REDUCTION ISSUE,drie exemption,7
+8026150,TRAFFIC,ethernet cable,22
+8100900,PLUMBING,water wnw,17
+8575059,STREET CONDITION,suspected street cut,21
+8588557,DCA / DOH NEW LICENSE APPLICATION REQUEST,pedicab driver,4
+9028800,STREET CONDITION,dumpster bulk household,21
+9154625,DCA / DOH NEW LICENSE APPLICATION REQUEST,tow truck exemption license,4
+9652712,STREET CONDITION,dumpster causing damage,21
+9678751,HPD LITERATURE REQUEST,abcs housing russian,12
+9894552,HPD LITERATURE REQUEST,abcs housing arabic,12
+9901647,HPD LITERATURE REQUEST,abcs housing haitian creole,12
+10071808,CONSUMER COMPLAINT,cancellation closure without notice,3
+10287986,HPD LITERATURE REQUEST,abcs housing korean,12
+10513181,CONSUMER COMPLAINT,defective headphones,3
+10552919,STREET CONDITION,fire alarm lamp dim,21
+10971563,TRAFFIC,coax cable,22
+12285067,STREET CONDITION,defective streetlight,21
+12781308,TRAFFIC,conflict monitor,22
+13027434,DCA / DOH NEW LICENSE APPLICATION REQUEST,general vendor waiting list application,4
+13486304,TRAFFIC,supervisory,22
+14492020,STREET CONDITION,guide rail,21
+14530316,TRAFFIC,det sens amplifier,22
+14682705,DCA / DOH NEW LICENSE APPLICATION REQUEST,retail laundry license application,4
+15408377,TRAFFIC,ez pass reader,22
+15637358,DCA / DOH NEW LICENSE APPLICATION REQUEST,inhalation therapy supervising technician license,4
+15790743,CONSUMER COMPLAINT,disclosure provided,3
+16309382,TRAFFIC,marine globe,22
+16677141,TRAFFIC,marine lamp,22
+16735686,DOF PROPERTY - PAYMENT ISSUE,eft online payment problem,6
+16915414,TRAFFIC,expy sign fixt cover,22
+18704106,DCA / DOH NEW LICENSE APPLICATION REQUEST,industrial laundry delivery license application,4
+18760302,DCA / DOH NEW LICENSE APPLICATION REQUEST,ticket seller business license application,4
+19663544,STREET CONDITION,concrete walls,21
+19664491,HPD LITERATURE REQUEST,certificate harassment exemption,12
+20274725,CONSUMER COMPLAINT,domestic employee,3
+20422821,CONSUMER COMPLAINT,funeral home,3
+20428687,CONSUMER COMPLAINT,jewelry appraiser,3
+20458490,TRAFFIC,cell,22
+20463198,CONSUMER COMPLAINT,bingo hall,3
+20546554,PLUMBING,caps chains missing fire dept use,17
+21160693,CONSUMER COMPLAINT,utility company,3
