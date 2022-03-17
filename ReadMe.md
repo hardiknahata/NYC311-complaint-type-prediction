@@ -1,4 +1,4 @@
-# NYC 311 Dataset - Hardik Nahata
+# NYC 311 Complaint Type Prediction - Hardik Nahata
 
 ## About/Overview
 
