@@ -6,9 +6,10 @@
 The 311 dataset has about 40 columns and around 21 Million Rows.
 
 ## Objectives Accomplished
-I have successfully attempted the following objectives of the problem statement provided by Ezoic:
-- Challenge 1 : Question 1 : How many incidents were opened in each year (beginning with 2010)?
-- Challenge 1 : Question 2 : Which borough has the most incidents?
+I have successfully attempted the following objectives of the problem statement:
+- Challenge 1 
+  - Question 1 : How many incidents were opened in each year (beginning with 2010)?
+  - Question 2 : Which borough has the most incidents?
 - Challenge 2 : Complaint Type Prediction given the Complaint Description.
 - Extra Challenge: Deployed the model on the Cloud with Streamlit. (Link Provided)
 
@@ -71,8 +72,6 @@ This repository contains the following two folders:
 - I had decided to **deploy** my best model for complaint prediction on the Cloud.
 - I have also attached the code used to deploy in this folder. 
 - I have used the Streamlit library for deployment.
-- The **link** to the deployed model is below:
-   https://share.streamlit.io/hardiknahata/nyc311-complaint-type-prediction/main/predict.py
 	    
 ## Assumptions
 - I have assumed that the complaint type relies on the description of the complaint only.
