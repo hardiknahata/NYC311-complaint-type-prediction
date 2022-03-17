@@ -17,30 +17,31 @@ Please use Google Collab to open the Jupyter Notebooks (IPYNB files) for best ex
 
 ## Description of the repository
 This repository contains the following two folders:
-- **Challenge 1**
-- **Challenge 2**  
+- **Challenge 1** : contains Data Exploration and Analysis
+- **Challenge 2** : contains notebooks for Data Wrangling, Data Cleaning and Model Training.
+=- **Model Deployment** : contains files for model deployment
 
 
 ## Challenge 1 File Descriptions
 
-1. **Ezoic-Challenge-One-Question-1**:
+1. **Challenge-One-Question-1**:
 		This Notebook queries data from the RedShift Database and shows the code and visualization to find how many incidents were opened in each year (beginning with 2010)?
 
-2. **Ezoic-Challenge-One-Question-2**:
+2. **Challenge-One-Question-2**:
 		This Notebook queries data from the RedShift Database and shows the code and visualization to find which borough has the most incidents?
 
 ## Challenge 2 File Descriptions
 
-1. **Ezoic-Challenge-Two-Data-Filtering**:
+1. **Challenge-Two-Data-Filtering**:
 		This Notebook queries data from the RedShift Database and filters it to retrieve the data required to solve the problem of complaint type prediction.
 		
-2. **Ezoic-Challenge-Two-Data-Preprocessing-1**:
+2. **Challenge-Two-Data-Preprocessing-1**:
 		This Notebook works on the dataframe created in the previous notebook and applies Data Preprocessing techniques to clean and transform the data for model training.	
 
-3. **Ezoic-Challenge-Two-Data-Preprocessing-2**:
+3. **Challenge-Two-Data-Preprocessing-2**:
 		This Notebook works on the dataframe created in the previous notebook and applies Data Preprocessing techniques to hande the class imbalance found in the data.
 
-4. **Ezoic-Challenge-Two-Traditional-ML-Class-Imbalance**:
+4. **Challenge-Two-Traditional-ML-Class-Imbalance**:
 		This Notebook works on the dataframe which contains the data **with class imbalance**.  
 		I have applied Traditional Machine Learning Algorithms for Complaint Prediction:
 		- Random Forest
@@ -48,7 +49,7 @@ This repository contains the following two folders:
 		- Multinomial Naive Bayes 
 		- Linear SVC
 	
-5. **Ezoic-Challenge-Two-Traditional-ML-Class-Balanced**:
+5. **Challenge-Two-Traditional-ML-Class-Balanced**:
 	    This Notebook works on the dataframe which contains the data **with class balance**. 
 	    I have applied Traditional Machine Learning Algorithms for Complaint Prediction:
 		- Random Forest
@@ -58,25 +59,20 @@ This repository contains the following two folders:
 		
 		* The reason to train/test with class balanced & imbalanced data was to show the improve in performance.  
 
-6. **Ezoic-Challenge-Two-Transformers**:
+6. **Challenge-Two-Transformers**:
 	    I have trained the RoBERTa Transformer Model on the dataset.
 
-7. **Ezoic-Challenge-Two-AutoNLP-HuggingFace**:
+7. **Challenge-Two-AutoNLP-HuggingFace**:
 	    I have explored AutoNLP by HuggingFace to train on the dataset.
 
-## Extra Challenges File Descriptions
+## Model Deployment File Descriptions
 
-1. **Model-Deployment-Streamlit**:
 - As per the problem statement, we had an option to create an interactive application.
 - I had decided to **deploy** my best model for complaint prediction on the Cloud.
 - I have also attached the code used to deploy in this folder. 
 - I have used the Streamlit library for deployment.
 - The **link** to the deployed model is below:
    https://share.streamlit.io/hardiknahata/nyc311-complaint-type-prediction/main/predict.py
-
-2. **Ezoic_Extra_Challenge_Data_Exploration**:
-- As per the problem statement, we had an option to visualize and do analysis on the data.
-- I have written this notebook to analyze and visualize the complaint trends and resolution times.
 	    
 ## Assumptions
 - I have assumed that the complaint type relies on the description of the complaint only.
